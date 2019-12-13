@@ -1,0 +1,5 @@
+state variables
+constructors
+get methods
+to string method
+(cereal, value)
